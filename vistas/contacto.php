@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<link rel="icon" type="image/png" href="../img/favicon.png" />
 	<title>TALLERES MECANICOS LE PITS</title>
 	<link rel="stylesheet" href="../css/estilos.css">
 	<link href="https://file.myfontastic.com/oZrD95afmh6F7UiEtyxVF9/icons.css" rel="stylesheet">
@@ -31,8 +32,8 @@
           <nav class="nav">
               <ul class="menu">
                 <li class="menu_item"><a class="menu_link" href="../index.php" ><span class="icon-home"></span>&nbsp;Home</a></li>
-                <li class="menu_item"><a class="menu_link" href="vistas/nosotros.php"><span class="icon-users"></span>&nbsp;Nosotros</a></li>
-                <li class="menu_item"><a class="menu_link" href="vistas/servicios.php"><span class="icon-briefcase"></span>&nbsp;Servicios</a></li>
+                <li class="menu_item"><a class="menu_link" href="nosotros.php"><span class="icon-users"></span>&nbsp;Nosotros</a></li>
+                <li class="menu_item"><a class="menu_link" href="servicios.php"><span class="icon-briefcase"></span>&nbsp;Servicios</a></li>
                 <li class="menu_item select"><a class="menu_link active" href="contacto.php"><span class="icon-fax"></span>&nbsp;Contacto</a></li>
             </ul>
           </nav>

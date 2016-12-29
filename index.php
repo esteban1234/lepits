@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<link rel="icon" type="image/png" href="img/favicon.png" />
 	<title>TALLERES MECANICOS LE PITS</title>
 	<link rel="stylesheet" href="css/estilos.css">
 	<link href="https://file.myfontastic.com/oZrD95afmh6F7UiEtyxVF9/icons.css" rel="stylesheet">
