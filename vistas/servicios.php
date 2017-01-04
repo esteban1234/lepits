@@ -21,7 +21,7 @@
         <span class="icon-phone">&nbsp;</span><p class="num">pendiente</p>
       </article>
       <article class="tel">
-        <span class="icon-envelope">&nbsp;</span><p class="num">pendiente</p>
+        <span class="icon-envelope">&nbsp;</span><p class="num">info@lepits.com</p>
       </article>
     </article>
   </article>
