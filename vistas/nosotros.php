@@ -50,9 +50,9 @@
 	<article class="acordeon">
 		<div id="container-main">
 			<!-- <h1>Mejores Jugadores Liga BBVA</h1> -->
-			<div class="accordion-container">
-   				<a href="#" class="accordion-titulo">Misión<span class="toggle-icon"></span></a>
-	        	<div class="accordion-content">
+			<div class="accordion-container" >
+   				<a href="#" class="accordion-titulo" >Misión<span class="toggle-icon"></span></a>
+	        	<div class="accordion-content" >
 	            	<!-- <img src="http://e0.365dm.com/15/05/660x350/champions-league-barcelona-bayern-munich-soccer-messi_3299830.jpg?20150506214236" alt=""/> -->
 	            	<p>Ofrecer servicios integrales automotrices,  manteniendo un crecimiento y mejora integral de la empresa superando a toda competencia, tanto en los tiempos de entrega como en la calidad del servicio brindado.</p>
 	           </div>
