@@ -4,7 +4,9 @@
 	<meta charset="UTF-8">
 	<link rel="icon" type="image/png" href="img/favicon.png" />
 	<title>TALLERES MECANICOS LE PITS</title>
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<link rel="stylesheet" href="css/estilos.css">
+	<link rel="stylesheet" href="css/responsivo.css">
 	<link href="https://file.myfontastic.com/oZrD95afmh6F7UiEtyxVF9/icons.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans|Oswald|Roboto|Roboto+Condensed" rel="stylesheet">
 </head>
@@ -128,6 +130,6 @@
 
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/iconoarriba.js"></script>
-	
+
 </body>
 </html>

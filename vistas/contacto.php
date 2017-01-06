@@ -5,6 +5,7 @@
 	<link rel="icon" type="image/png" href="../img/favicon.png" />
 	<title>TALLERES MECANICOS LE PITS</title>
 	<link rel="stylesheet" href="../css/estilos.css">
+	<link rel="stylesheet" href="../css/responsivo.css">
 	<link href="https://file.myfontastic.com/oZrD95afmh6F7UiEtyxVF9/icons.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans|Oswald|Roboto|Roboto+Condensed" rel="stylesheet">
 </head>

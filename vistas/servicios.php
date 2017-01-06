@@ -5,6 +5,7 @@
 	<link rel="icon" type="image/png" href="../img/favicon.png" />
 	<title>TALLERES MECANICOS LE PITS</title>
 	<link rel="stylesheet" href="../css/estilos.css">
+	<link rel="stylesheet" href="../css/responsivo.css">
 	<link href="https://file.myfontastic.com/oZrD95afmh6F7UiEtyxVF9/icons.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans|Oswald|Roboto|Roboto+Condensed" rel="stylesheet">
 </head>
@@ -40,7 +41,7 @@
 </article>
 
 <article class="bannerser">
-	
+
 </article>
 
 
@@ -54,7 +55,7 @@
 			<p class="puntosf">
 				*&nbsp;Inspección y diagnóstico de componentes adyacentes: suspensión, amortiguadores, eje motriz, cubre polvos y flechas. <br>
 				*&nbsp;Dictamen de la vida útil de los frenos, incluyendo pastillas, balatas, discos y tambores.<br>
-				*&nbsp;Inspección del pedal, booster, cilindro maestro y líquido de frenos.<br>				
+				*&nbsp;Inspección del pedal, booster, cilindro maestro y líquido de frenos.<br>
 				*&nbsp;Limpieza de residuos y polvo en piezas mecánicas.<br>
 				*&nbsp;Chequeo y cambio de líquido de frenos.<br>
 				*&nbsp;Ajuste de balatas.
@@ -72,7 +73,7 @@
 			<p class="puntosf">
 				*&nbsp;Verificación de líneas de presión en bomba de gasolina, distribuidor, rotor y cables de bujías.<br>
 				*&nbsp;Limpieza de inyectores y cuerpo de aceleración (en autos fuel injection).<br>
-				*&nbsp;Ajuste de tiempo y marcha mínima (donde aplique).<br>				
+				*&nbsp;Ajuste de tiempo y marcha mínima (donde aplique).<br>
 				*&nbsp;Reemplazo de bujías, filtros de gasolina y aire.<br>
 				*&nbsp;Diagnóstico por computadora y scanner.
 				</p>
@@ -89,7 +90,7 @@
 			<p class="puntosf">
 				*&nbsp;Retiro del aceite usado y de micropartículas suspendidas en el aceite. <br>
 				*&nbsp;Llenado a la capacidad recomendada por el fabricante de aceite.<br>
-				*&nbsp;Se renueva el aceite usado del diferencial.			
+				*&nbsp;Se renueva el aceite usado del diferencial.
 				<!-- *&nbsp;Limpieza de residuos y polvo en piezas mecánicas.<br>
 				*&nbsp;Chequeo y cambio de líquido de frenos.<br>
 				*&nbsp;Ajuste de balatas. -->
@@ -124,7 +125,7 @@
 			<p class="puntosf">
 				*&nbsp;Inspección y diagnóstico general de llantas, rines y los componentes de la suspensión y la dirección.<br>
 				*&nbsp;Alineación de las 4 ruedas por computadora.<br>
-				*&nbsp;Balanceo de las ruedas por computadora.			
+				*&nbsp;Balanceo de las ruedas por computadora.
 				<!-- *&nbsp;Limpieza de residuos y polvo en piezas mecánicas.<br>
 				*&nbsp;Chequeo y cambio de líquido de frenos.<br>
 				*&nbsp;Ajuste de balatas. -->
@@ -142,7 +143,7 @@
 			<p class="puntosf">
 				*&nbsp;Inspección de mangueras, bandas, sensores, bulbos de temperatura y bomba de agua.<br>
 				*&nbsp;Relleno de anticongelante bajo especificaciones del fabricante.<br>
-				*&nbsp;Diagnóstico electrónico por escrito del sistema eléctrico.<br>				
+				*&nbsp;Diagnóstico electrónico por escrito del sistema eléctrico.<br>
 				*&nbsp;Limpieza del sistema.
 				<!-- *&nbsp;Diagnóstico por computadora y scanner. -->
 				</p>
@@ -159,7 +160,7 @@
 			<p class="puntosf">
 				*&nbsp;Verificación del funcionamiento y reparación de fallas en los sistemas de carga y marcha.<br>
 				*&nbsp;Determina el funcionamiento de los componentes eléctricos originales.<br>
-				*&nbsp;Diagnóstico electrónico por escrito del sistema eléctrico.<br>				
+				*&nbsp;Diagnóstico electrónico por escrito del sistema eléctrico.<br>
 				*&nbsp;Reposición de batería (si es necesario).
 				<!-- *&nbsp;Chequeo y cambio de líquido de frenos.<br>
 				*&nbsp;Ajuste de balatas. -->
@@ -177,7 +178,7 @@
 			<p class="puntosf">
 				*&nbsp;Diagnóstico de todos los componentes del sistema: bomba, regulador, inyectores y filtros.<br>
 				*&nbsp;Revisión de flujo de combustible a través de los inyectores.<br>
-				*&nbsp;Revisión del funcionamiento de la bomba de gasolina.<br>				
+				*&nbsp;Revisión del funcionamiento de la bomba de gasolina.<br>
 				*&nbsp;Revisión de la operación del regulador de presión.<br>
 				*&nbsp;Limpieza de inyectores.
 				</p>
@@ -194,7 +195,7 @@
 			<p class="puntosf">
 				*&nbsp;Engrasado de Tolvas loderas con Aceite Lubricante Anticorrosivo.<br>
 				*&nbsp;Engrasado de Chasis con Aceite Lubricante anticorrosivo.<br>
-				*&nbsp;Engrasado de Suspensión con Grasa sintetica en spray.<br>				
+				*&nbsp;Engrasado de Suspensión con Grasa sintetica en spray.<br>
 				*&nbsp;Lavado de Tolvas loderas con agua a presión.<br>
 				*&nbsp;Lavado de Suspensión con agua a Presión.<br>
 				*&nbsp;Lavado de Chasis con agua a presión.

@@ -5,6 +5,7 @@
 	<link rel="icon" type="image/png" href="../img/favicon.png" />
 	<title>TALLERES MECANICOS LE PITS</title>
 	<link rel="stylesheet" href="../css/estilos.css">
+	<link rel="stylesheet" href="../css/responsivo.css">
 	<link href="https://file.myfontastic.com/oZrD95afmh6F7UiEtyxVF9/icons.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans|Oswald|Roboto|Roboto+Condensed" rel="stylesheet">
 </head>
@@ -57,7 +58,7 @@
 	            	<p>Ofrecer servicios integrales automotrices,  manteniendo un crecimiento y mejora integral de la empresa superando a toda competencia, tanto en los tiempos de entrega como en la calidad del servicio brindado.</p>
 	           </div>
         	</div>
-    
+
     		<div class="accordion-container">
         		<a href="#" class="accordion-titulo">Visión<span class="toggle-icon"></span></a>
         		<div class="accordion-content">
@@ -85,7 +86,7 @@
 
 	</article>
 </article>
-	
+
 <footer>
   <article class="contenpie">
     Copyright © 2016 TALLERES MECANICOS LE PITS
