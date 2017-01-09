@@ -7,7 +7,7 @@
      box-sizing: border-box;
  }
  /*------------------ir-arriba-------------*/
- 
+
  .ir-arriba {
      display: none;
      padding: 20px;
@@ -20,7 +20,12 @@
      right: 20px;
  }
  /*----------------encabexzado---------*/
- 
+
+  .opcion-menu
+  {
+    display: none;
+  }
+
  .contentencabezado {
      /*outline: 2px red solid;*/
      width: 100%;
@@ -29,14 +34,14 @@
      -moz-box-shadow: inset 0px 0px 18px 0px rgba(0, 0, 0, 1);
      box-shadow: inset 0px 0px 18px 0px rgba(0, 0, 0, 1);
  }
- 
+
  .encabezado {
      /*outline: 2px yellow solid;*/
      width: 80%;
      margin: 0 auto;
      height: 150px;
  }
- 
+
  .figure {
      /*outline: 2px black solid;*/
      width: 23%;
@@ -53,7 +58,7 @@
      background-position: center center;
      background-repeat: no-repeat;
  }
- 
+
  .emailtelencabezado {
      /*outline: 2px green solid;*/
      width: 30%;
@@ -61,30 +66,30 @@
      margin-right: 8%;
      margin-top: 3%;
  }
- 
+
  .mail,
  .tel {
      /*outline: 2px red solid;*/
      width: 100%;
      font-family: 'Open Sans', sans-serif;
  }
- 
+
  .tel {
      margin-top: 4%;
  }
- 
+
  .icon-phone,
  .icon-mail,
  .num {
      display: inline-block;
      vertical-align: top;
  }
- 
+
  .num {
      color: #29334E;
      font-size: 25px;
  }
- 
+
  .icon-phone,
  .icon-envelope {
      color: #424949;
@@ -92,7 +97,7 @@
      font-size: 35px;
  }
  /*----------------------menu---------------*/
- 
+
  .contenedor {
      /*outline: 2px red solid;*/
      /*margin-top: 5%;*/
@@ -100,17 +105,17 @@
      /*background-color: #424949;*/
      background-color: rgb(0, 0, 0);
  }
- 
+
  .nav {
      /*outline: 2px yellow solid;*/
      width: 50%;
      margin: 0 auto;
  }
- 
+
  .menu {
      /*outline: 2px green solid;*/
  }
- 
+
  .menu_item {
      display: inline-block;
      padding: 20px;
@@ -120,7 +125,7 @@
      -ms-transition: all 1s ease;
      transition: all 1s ease;
  }
- 
+
  .menu_link {
      /*outline: 2px red solid;*/
      color: white;
@@ -135,26 +140,26 @@
      -ms-transition: all 1s ease;
      transition: all 1s ease;
  }
- 
+
  .menu_item:hover {
      background-color: #e5e8e8;
      color: #29334E;
  }
- 
+
  .menu_link:hover {
      color: #29334E;
  }
- 
+
  .select {
      background-color: #e5e8e8;
      color: #29334E;
  }
- 
+
  .active {
      color: #29334E;
  }
  /*-----------------------banner----------------*/
- 
+
  .banner {
      /*outline: 2px red solid;*/
      width: 100%;
@@ -167,7 +172,7 @@
      /*background-attachment: fixed;*/
      overflow: hidden;
  }
- 
+
  .cubrir {
      width: 100%;
      position: relative;
@@ -175,7 +180,7 @@
      background-color: rgba(0, 0, 0, .5);
      overflow: hidden;
  }
- 
+
  .texto {
      text-align: center;
      color: black;
@@ -188,7 +193,7 @@
      background-color: rgba(255, 255, 255, 0.8);
      font-weight: bold;
  }
- 
+
  .contenservbanner {
      /*outline: 2px red solid;*/
      width: 100%;
@@ -199,7 +204,7 @@
      color: white;
      text-align: center;
  }
- 
+
  .contecirculo {
      color: white;
      text-decoration: none;
@@ -209,7 +214,7 @@
      vertical-align: top;
      margin-left: 5%;
  }
- 
+
  #circulo {
      height: 140px;
      width: 140px;
@@ -224,14 +229,14 @@
      /*background-color: rgba(0, 0, 0, 0.4);*/
      background-color: rgba(255, 255, 255, 0.8);
  }
- 
+
  #circulo:hover {
      background-color: #eaecee;
      color: black;
      font-weight: bold;
      text-align: center;
  }
- 
+
  #circulo2 {
      height: 140px;
      width: 140px;
@@ -247,7 +252,7 @@
      background-color: rgba(255, 255, 255, 0.8);
      color: black;
  }
- 
+
  #circulo2:hover {
      background-color: #eaecee;
      color: black;
@@ -255,7 +260,7 @@
      text-align: center;
  }
  /*-------------section index3-----------*/
- 
+
  .sectionclientes3 {
      height: 400px;
      width: 100%;
@@ -269,7 +274,7 @@
      overflow: hidden;
      clear: both;
  }
- 
+
  .title {
      /*outline: 2px red solid;*/
      padding-top: 2%;
@@ -283,11 +288,11 @@
      font-size: 30px;
      /*margin-top: 2%;*/
  }
- 
+
  .cursos {
      /*outline: 2px red solid;*/
  }
- 
+
  .cursos_conten {
      /*outline: 2px yellow solid;*/
      width: 90%;
@@ -295,7 +300,7 @@
      margin-top: 2%;
      /*text-align: center;*/
  }
- 
+
  .cursos__columna {
      /*outline: 2px green solid;*/
      display: inline-block;
@@ -305,7 +310,7 @@
      margin-left: 5%;
      /*margin-bottom: 30px;*/
  }
- 
+
  .cursos__descripcion {
      position: absolute;
      top: 0;
@@ -316,25 +321,25 @@
      height: 98%;
      padding: 5px;
  }
- 
+
  .cursos__titulo {
      font-size: 25px;
      margin: 5px 0;
      text-align: center;
  }
- 
+
  .cursos__txt {
      /*outline: 2px red solid;*/
      text-align: center;
      margin-top: 10%;
  }
- 
+
  .icon-thumb-tack,
  .icon-simplybuilt,
  .icon-wrench {
      font-size: 60px;
  }
- 
+
  .leermas {
      /*outline: 2px red solid;*/
      padding: 10px 0px 10px 0px;
@@ -344,35 +349,35 @@
      -moz-box-shadow: inset 0px 0px 300px 200px rgba(0, 0, 0, 0.75);
      box-shadow: inset 0px 0px 300px 200px rgba(0, 0, 0, 0.75);
  }
- 
+
  .leermas:hover {
      background-color: white;
      color: black;
      font-weight: bold;
  }
- 
+
  .leer {
      text-decoration: none;
      color: white;
      font-weight: bold;
      font-family: 'Open Sans', sans-serif;
  }
- 
+
  .cursos__img {
      width: 100%;
  }
- 
+
  .boton {
      margin-top: 2%;
      /*outline: 2px red solid;*/
      width: 100%;
      margin-bottom: 2%;
  }
- 
+
  .a {
      text-decoration: none;
  }
- 
+
  .btnserv {
      /*outline: 2px green solid;*/
      color: white;
@@ -386,7 +391,7 @@
      box-shadow: inset 0px 0px 300px 200px rgba(0, 0, 0, 0.75);
      padding: 20px;
  }
- 
+
  .btnserv:hover {
      background-color: white;
      color: black;
@@ -396,13 +401,13 @@
      box-shadow: none;
  }
  /*---------------------marcas-----------------*/
- 
+
  .marcas {
      /*outline: 2px red solid;*/
      overflow: hidden;
      margin-top: 2%;
  }
- 
+
  .marcas p {
      /*outline: 2px green solid;*/
      border-top: 1px #979a9a solid;
@@ -414,19 +419,19 @@
      font-size: 25px;
      background-color: #34495e;
  }
- 
+
  .imgmarcas {
      /*outline: 2px red solid;*/
      width: 100%;
      margin-bottom: 2%;
  }
- 
+
  .marquee {
      /*outline: 2px green solid;*/
      width: 100%;
      height: 80px;
  }
- 
+
  .marquee img {
      margin-top: 3%;
      /*margin-left: %;*/
@@ -435,21 +440,21 @@
      /*width: 10%;*/
  }
  /*-------------------footer------------*/
- 
+
  footer {
      /*outline: 2px red solid;*/
      height: 80px;
      background-color: #000000;
      overflow: hidden;
  }
- 
+
  .contenpie,
  .contenpiedirec,
  .sucursal {
      display: inline-block;
      vertical-align: top;
  }
- 
+
  .contenpie {
      /*outline: 2px red solid;*/
      /*text-align: center;*/
@@ -459,7 +464,7 @@
      font-family: 'arial', sans-serif;
      margin-top: 2%;
  }
- 
+
  .contenpiedirec {
      /*outline: 2px red solid;*/
      color: white;
@@ -470,7 +475,7 @@
      margin-top: 1%;
      text-align: center;
  }
- 
+
  .sucursal {
      margin-left: 8%;
      color: white;
@@ -478,30 +483,30 @@
      font-family: 'arial', sans-serif;
      margin-top: 2%;
  }
- 
+
  .iconopie,
  .text-direc {
      display: inline-block;
      vertical-align: top;
  }
- 
+
  .iconopie {
      /*outline: 2px green solid;*/
      /*width: 100%;*/
      text-align: center;
      margin-top: 1%;
  }
- 
+
  .icon-pin {
      font-size: 30px;
      padding-top: 2%;
  }
- 
+
  .text-direc {
      /*outline: 2px red solid;*/
  }
  /*-------------------quienes somos---------------*/
- 
+
  .quien {
      /*outline: 2px red solid;*/
      width: 100%;
@@ -513,17 +518,17 @@
      text-align: center;
      padding: 20px 0px 20px 0px;
  }
- 
+
  .contenos {
      /*outline: 2px red solid;*/
      width: 100%;
      margin-top: 2%;
      overflow: hidden;
  }
- 
+
  .textoq,
  .acordeon {}
- 
+
  .textoq {
      /*outline: 2px red solid;*/
      width: 35%;
@@ -536,31 +541,31 @@
      text-align: justify;
      padding: 10px 0px 10px 0px;
  }
- 
+
  .textoq p {
      /*outline: 2px red solid;*/
      text-align: right;
  }
- 
+
  .textoq p a {
      text-decoration: none;
      color: white;
      padding: 10px;
      background-color: #2c3e50;
  }
- 
+
  .textoq p a:hover {
      color: black;
      background-color: #1ABC9C;
  }
- 
+
  .acordeon {
      /*outline: 2px green solid;*/
      width: 40%;
      float: right;
      margin-right: 5%;
  }
- 
+
  #container-main {
      /*margin: 40px auto;*/
      width: 100%;
@@ -572,13 +577,13 @@ x;*/
      font-size: 40px;
      text-shadow: 4px 4px 5px #16a085;
  }*/
- 
+
  .accordion-container {
      width: 100%;
      margin: 0 0 10px;
      clear: both;
  }
- 
+
  .accordion-titulo {
      position: relative;
      display: block;
@@ -589,24 +594,24 @@ x;*/
      color: #fff;
      text-decoration: none;
  }
- 
+
  .accordion-titulo.open {
      background: #16a085;
      color: #fff;
  }
- 
+
  .accordion-titulo:hover {
      background: #1abc9c;
  }
- 
+
  .accordion-titulo span.toggle-icon:before {
      content: "+";
  }
- 
+
  .accordion-titulo.open span.toggle-icon:before {
      content: "-";
  }
- 
+
  .accordion-titulo span.toggle-icon {
      position: absolute;
      top: 10px;
@@ -614,13 +619,13 @@ x;*/
      font-size: 38px;
      font-weight: bold;
  }
- 
+
  .accordion-content {
      display: none;
      padding: 20px;
      overflow: auto;
  }
- 
+
  .accordion-content p {
      margin: 0;
  }
@@ -638,7 +643,7 @@ x;*/
     }
 }*/
  /*-----------------servicios-----------*/
- 
+
  .bannerser {
      /*outline: 2px red solid;*/
      width: 100%;
@@ -651,7 +656,7 @@ x;*/
      /*background-attachment: fixed;*/
      overflow: hidden;
  }
- 
+
  .contenser {
      /*outline: 2px red solid;*/
      width: 100%;
@@ -660,13 +665,13 @@ x;*/
      /*margin-bottom: 5%;*/
      overflow: hidden;
  }
- 
+
  .contenedors {
      width: 100%;
      background-color: #515a5a;
      overflow: hidden;
  }
- 
+
  .frenos {
      /*outline: 2px green solid;*/
      height: 200px;
@@ -675,7 +680,7 @@ x;*/
      margin-top: 2%;
      margin-bottom: 2%;
  }
- 
+
  figure {
      margin-left: 1%;
      float: left;
@@ -684,7 +689,7 @@ x;*/
      position: relative;
      background: url('../img/frenos.jpg') no-repeat center;
  }
- 
+
  .textof {
      /*outline: 2px red solid;*/
      margin-top: 1%;
@@ -692,7 +697,7 @@ x;*/
      float: left;
      width: 72%;
  }
- 
+
  .titulof {
      width: 100%;
      font-family: 'Lato', sans-serif;
@@ -700,7 +705,7 @@ x;*/
      font-weight: bold;
      color: #17202a;
  }
- 
+
  .subtitulof {
      width: 100%;
      font-family: 'Lato', sans-serif;
@@ -708,18 +713,18 @@ x;*/
      font-weight: bold;
      color: #641e16;
  }
- 
+
  .puntosf {
      color: #fff;
      font-size: 17px;
  }
- 
+
  .contenedors2 {
      width: 100%;
      background-color: #6e2c00;
      overflow: hidden;
  }
- 
+
  .figure2 {
      margin-left: 1%;
      float: right;
@@ -728,7 +733,7 @@ x;*/
      position: relative;
      background: url('../img/afinacion.jpg') no-repeat center;
  }
- 
+
  .textoa {
      /*outline: 2px red solid;*/
      margin-top: 1%;
@@ -736,7 +741,7 @@ x;*/
      float: right;
      width: 72%;
  }
- 
+
  .subtituloa {
      width: 100%;
      font-family: 'Lato', sans-serif;
@@ -744,7 +749,7 @@ x;*/
      font-weight: bold;
      color: #909497;
  }
- 
+
  .figure3 {
      margin-left: 1%;
      float: left;
@@ -754,7 +759,7 @@ x;*/
      background: url('../img/lubricacion.jpg') no-repeat center;
      background-size: cover;
  }
- 
+
  .figure4 {
      margin-left: 1%;
      float: right;
@@ -764,7 +769,7 @@ x;*/
      background: url('../img/suspension.jpg') no-repeat center;
      background-size: cover;
  }
- 
+
  .figure5 {
      margin-left: 1%;
      float: left;
@@ -774,7 +779,7 @@ x;*/
      background: url('../img/balanceo.jpg') no-repeat center;
      background-size: cover;
  }
- 
+
  .figure6 {
      margin-left: 1%;
      float: right;
@@ -784,7 +789,7 @@ x;*/
      background: url('../img/enfriar.jpg') no-repeat center;
      background-size: cover;
  }
- 
+
  .figure7 {
      margin-left: 1%;
      float: left;
@@ -794,7 +799,7 @@ x;*/
      background: url('../img/diagnostico.jpg') no-repeat center;
      background-size: cover;
  }
- 
+
  .figure8 {
      margin-left: 1%;
      float: right;
@@ -804,7 +809,7 @@ x;*/
      background: url('../img/inyectores.jpg') no-repeat center;
      background-size: cover;
  }
- 
+
  .figure9 {
      margin-left: 1%;
      float: left;
@@ -814,7 +819,7 @@ x;*/
      background: url('../img/motor.jpg') no-repeat center;
      background-size: cover;
  }
- 
+
  .figure10 {
      margin-left: 1%;
      float: right;
@@ -824,7 +829,7 @@ x;*/
      background: url('../img/mecanica.jpg') no-repeat center;
      background-size: cover;
  }
- 
+
  .imgconta {
      width: 100%;
      height: 100px;
@@ -836,7 +841,7 @@ x;*/
      overflow: hidden;
  }
  /*---------------contacto------------*/
- 
+
  form {
      /*border: 2px red solid;*/
      /*width: 450px;*/
@@ -849,7 +854,7 @@ x;*/
      border-radius: 7px;
      margin-left: 5%;
  }
- 
+
  .conta {
      color: #fff;
      text-align: center;
@@ -858,7 +863,7 @@ x;*/
      margin-bottom: 20px;
      font-family: monospace;
  }
- 
+
  input,
  textarea {
      width: 100%;
@@ -867,24 +872,24 @@ x;*/
      font-size: 17px;
      border: none;
  }
- 
+
  textarea {
      min-height: 100px;
      max-height: 200px;
      max-width: 100%;
  }
- 
+
  #boton {
      background-color: #31384a;
      color: #fff;
      padding: 20px;
  }
- 
+
  #boton:hover {
      cursor: pointer;
      background-color: #000;
  }
- 
+
  .contieneformmapa {
      /*outline: 2px red solid;*/
      width: 100%;
@@ -892,7 +897,7 @@ x;*/
      overflow: hidden;
      margin-bottom: 2%;
  }
- 
+
  .mapa {
      /*outline: 2px red solid;*/
      float: right;
@@ -901,7 +906,7 @@ x;*/
      width: 60%;
      height: 540px;
  }
- 
+
  .mapa iframe {
      width: 100%;
      height: 540px;

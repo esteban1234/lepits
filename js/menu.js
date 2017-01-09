@@ -1,22 +1,36 @@
-$(document).ready(main);
+$(document).ready(function(){
+
 
 var contador = 1;
 
-function main(){
-	$('#header__icon').click(function(){
-
+// function main(){
+	$('#opcion-menu').click(function(){
 		if(contador == 1){
-			$('.nav-header').animate({
-				top: '90'
+			$('#contenedor').animate({
+				top: '0'
 			},500);
 			contador = 0;
 		} else {
-			contador = 1;
-			$('.nav-header').animate({
-				top: '-300%'
+			$('#contenedor').animate({
+				top: '-1000'
 			},500);
+			contador = 1;
 		}
 
 	});
 
-};
+	$('#cerrar').click(function(){
+		$('#contenedor').animate({
+			top: '-1000'
+		},500);
+		});
+});
+// $(document).ready(function(){
+//   $("#opcion-menu").click(function(){
+//     $("#contenedor").show(100);
+//   });
+//
+//   $("#cerrar").click(function(){
+//     $("#contenedor").hide();
+//   });
+// });

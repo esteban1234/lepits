@@ -28,16 +28,21 @@
   </article>
 </article>
 
-
-<article class="contenedor">
-          <nav class="nav">
-              <ul class="menu">
-                <li class="menu_item"><a class="menu_link" href="../index.php" ><span class="icon-home"></span>&nbsp;Home</a></li>
-                <li class="menu_item"><a class="menu_link" href="nosotros.php"><span class="icon-users"></span>&nbsp;Nosotros</a></li>
-                <li class="menu_item select"><a class="menu_link active" href="servicios.php"><span class="icon-briefcase"></span>&nbsp;Servicios</a></li>
-                <li class="menu_item"><a class="menu_link" href="contacto.php"><span class="icon-fax"></span>&nbsp;Contacto</a></li>
-            </ul>
-          </nav>
+<div class="opcion-menu" id="opcion-menu">
+		<p>MENU</p><span class="icon-bars"></span>
+</div>
+<article class="contenedor" id="contenedor">
+					<nav class="nav">
+							<ul class="menu">
+								<li class="menu_item"><a class="menu_link" href="../index.php" ><span class="icon-home"></span>&nbsp;Home</a></li>
+								<li class="menu_item"><a class="menu_link" href="nosotros.php"><span class="icon-users"></span>&nbsp;Nosotros</a></li>
+								<li class="menu_item select"><a class="menu_link active" href="servicios.php"><span class="icon-briefcase"></span>&nbsp;Servicios</a></li>
+								<li class="menu_item"><a class="menu_link" href="contacto.php"><span class="icon-fax"></span>&nbsp;Contacto</a></li>
+						</ul>
+					</nav>
+					<div id="cerrar">
+						<span class="cerrar" >X</span>
+					</div>
 </article>
 
 <article class="bannerser">
@@ -237,6 +242,7 @@
 </footer>
 
 <script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/menu.js"></script>
 <script type="text/javascript" src="../js/iconoarriba.js"></script>
 <script src="../js/eskju.jquery.scrollflow.min.js"></script>
 
