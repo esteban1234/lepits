@@ -56,7 +56,7 @@
 		<input type="text" name="nombre" placeholder="Nombre">
 		<input type="text" name="correo" placeholder="Correo">
 		<input type="text" name="telefono" placeholder="Telefono">
-		<textarea name="mensaje" id="" cols="30" rows="10" placeholder="Escriba aqui su mensaje"></textarea>
+		<textarea name="comentario" id="" cols="30" rows="10" placeholder="Escriba aqui su mensaje"></textarea>
 		<input type="button" value="Enviar" id="boton">
 	</form>
 
